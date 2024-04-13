@@ -1,0 +1,4 @@
+spring:
+  # 设置响应返回数据统一为下划线
+  jackson:
+    property-naming-strategy: SNAKE_CASE
